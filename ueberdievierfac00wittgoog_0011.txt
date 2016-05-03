@@ -1,0 +1,52 @@
+8 0. G. J. Jacobi.
+
+eine Gleichung, die unter Einsotzung der Werthe von u, v, α’, v'
+dio Form annimmt
+
+mi -}- m'i' -ἱ- m''i'' = 0,
+
+wo m, m', m'' ganzo Zahlen bedeut0n3 dass dies nicht an-
+gssngig ist, haben wir gezeigt.
+
+3.
+
+Naoh diesen Vorbereitungen werde ich nun zeigen, dass,
+wenn die drei Perioden siole nicht auf eine zuruckfuhren
+lassam, man immer qanze Zahlen m, m', m'' bestimmen kann,
+. sodass jeder der beiden Ausdrzlcke
+
+ma -Ι- m'a' -Ι- m''a''
+
+ι mb -ἱ- m'b' -Ι- m''b''
+hleiner wird ¹als irqend eine qeqebene Grb‘sse, oder dass
+die vorqeleqte Functz'on [59] einen Index hat, der kleiner
+ist, als iryend eine qeqebene Grb'sse, ohne jedoelz zu ver-
+
+schwinden.
+Ich sessze dethl1·ze halber:
+
+ὥθ’-(Μ’ = A, a''b-ab'' = Α’, ab'- a'b = A''‚
+sodass
+aA 4- a‘A' 4- a''A'' ¹= 0, bA -1- b'A' -}- b''A'' = 0.
+Bezeichnen ferner α, α’, α” ganzo Zahlen‚ so setze ioh
+ctA' αΑ”’
+
+Ῑ-α’;Δ, Ῑ-α”;Δ’,
+sodass
+
+aa 4- a'a' -}- a''a'' = - [a'A -1- a''A']‚
+
+ab 4- a'b' -}- a''b'' = — [b'A † b'‘A'].
+Nun kann man die Zahlen α, α’ so besfimmen, dass Δ kleiner
+als irgend eine gegebene Grsssse wird. Feruor lasst sich nach
+Bestimmung von a, α’ die dritta Zahl a'' so annehmen, dass
+ohne Rncksieht auf das Vorzeiohen
+
+A' <3
+wird. Bestimmt man so a, α’, a''‚ so werden die obigen Aus-
+drflcke der Reihe nach absolut genommen kleiner als Μ’
+
+und Ψ. sind also die Grb'ssen a, α’, a'' und b, h' b“ qe-
+
+ 
+

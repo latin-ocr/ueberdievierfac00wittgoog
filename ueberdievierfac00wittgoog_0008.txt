@@ -1,0 +1,50 @@
+Ueber die vierseeh periodisehen Funetioneii ete. 5
+
+als irgend eine gegebene Grisse ist und doeh nieht ver-
+sehwindet. Das aber kann nieht sein.
+Ans dem Vorstehenden foIgt, dass, so oft von Perioden‚
+gliigdiieht auf eine zuriekgehen‚ die Indices imaginine Grissen
+iza-l-bVTl i'=a'÷b'V‡i,
+
+wo a, b, α’, b‘ reelle Grissen bezeichnen, niemals
+
+ab'-a'b=0
+
+· sein kann. Danu nemIieh wilrde del· Quotient der Indices
+
+Ἴ α’ -Ι- yffi a' b'
+a -1- ὂΥ--Ι ἷεὸ
+eine reelle Gresse sein.
+
+2.
+
+Untersuehen wir nun, ob eine Funetion drei Perioden
+, haben kann, die sich nieht aus zwejen zusammensetzen lassen.
+Seien die Indices dreier seleher Pelioden
+
+ἱειι-Ι-ὂΥΪ-Ι, ε’ἐιί-Ι-ὂὛ-Ῑ, ό”εα”-Ι-Ι)ὝῙ-”1“,
+
+wo a, b, α’, b', a''‚ b'' reelle Grbssen bedeuten. Wir setzen
+naeh dem Vorhergehenden vorans, dass von den Grissen
+
+’ a'b''-a''b'‚ a''b-ab''‚ ab'-a'b
+
+keine versehwindet. Denn sonet wirden sieh entweder zwei
+Perioden auf eine reduciren, was gegen die Vereussetzung ist,
+oder die Funetion winde einen Index haben, der kleine1·ist‚
+als irgend eine gegebene Grbsse, ohne doeh zu versehwinden,
+[5⁷] was absuri ist. Zuneehst nun bemerke ich, dass sich
+jone drei Grssssen nieht wie ganzo Zahlen verhalten, oder·
+nieht durch dieselbe Grisse gemeesen werden kinnen.
+Nehmen wir nemlieh an, es verhielte sich
+
+a‘b'' - a''b' : a''b - ab'' : ab' - a'b = m : m' : m''‚
+
+wo m, m', m''*) ganzo Zahlen bodemen, die wir als von ge-
+meinsamen Factoren befreit annehmen. Danu ist
+
+*j Hier und weiterhin nehmen wir die genien Zahlen sowohl
+als positiv, wie auch als negativ an.
+
+ 
+

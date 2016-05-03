@@ -1,0 +1,55 @@
+Ueber ¹die viersaeh periodischen Funetionen etc. 11
+
+Dann wird
+0 = a('³)b(²1÷¹) - a(''²*¹)b('²) 2:
+(mn-nn (Μ’-Ν) ÷ nn —mn nn —an
+-t- (mp'—-m'p) (als-db).
+
+DietssehGltei'ehung kann aber, wie im ξ 2 gezeigt iet, nieht
+sta een.
+
+4.
+Ι Setzen wir
+
+a( ) 4. Νη) ν’ἶΙ = itt),
+
+so ist hier, dass im, e'IV, iv ete. Indices der vergelegten Fune-
+tion werden. Wir haben mithin einen ganz bestimmten Algo-
+
+· rithmus angegeben‚ durch den aus drei gegebenen imagineren
+
+Indices eine unendliehe Reihe von Indices gebildet wint, deren
+reeller und imaginarer Theil zugleieh kleiner als irgend eine
+gegebene Genese wird‚ ohne doeh gleichzeitig versehwinden
+zu kennen. Da'her ist allenthalben unumstteslich bewiesen:
+
+wenn eine eorqeleqte anctn'on dree‘ Perinden hat, eo lassen ⁴
+
+sicle diese entweder ans zwee'en zusammensetzen, oder die
+Funen'on hat ee'nen Index, der kleenen in als jede qeyebene
+Gneisse. Da dies absurd ist, so qiebt es kenne dreefach perio-
+dieehe ancn'on.
+
+Men sieht also, dass wir mit gutem Reehte gesagt haben,
+dass eine zweifeehe Perinde die gesammte Periodicitttt erschtpft.
+,Alter -das gin nur von Functionen einer Variabeln. Betraehtet
+man Funetionen mehreret· Vertnderliehen, so braueht man bei
+weitem nieht bei einer zweifaehen Perinde etehen zu bleiben.·
+
+Beiepiele von Funetionen mehrerer Variabeln‚ die mehr
+als zwei Perinden haben, bieten diejenigen Funetionen der,
+die ieh zuerst in den »Commentatiuneula de transcendentibus
+Abelianis« (Or. J. Band IX. pag. 394) benachtet habe. Aber
+dieser wichtige Gegenstand muse noehmale grttndlieher er-
+
+nrtert werden.
+Sei
+
+n= Ο-Ι-ἳ-ἒφ -ῑ-ΑᾼίιιῖφψΑἳεὶῐιιιφ 4-A3sin6cp -t-···
+
+eine stlr elle reellen Werthe von φ convergente Reihe. Setzen
+wir fest, dass n eine vtllig bestimmte Funetion von sin²cp
+ist, z. B. eine rationale Funetion. Aendert man φ in (p-l-n‚
+
+ 
+

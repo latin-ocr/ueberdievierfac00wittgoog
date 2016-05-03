@@ -1,0 +1,51 @@
+10 (i. d. J. Jaeebi. ·
+
+m, m', m'' so bestimmen kann, dass gleichzeitig jeder der
+beiden Ansdrdeke
+ma -i- m'a' 4- m''a''
+‚mh ·-l- m'b' -i- m''b''
+kleiner ala eine gegebene Grdsse wird.
+Der bezeichnete Algorithmns, dureh den die Glieder der
+beiden Reihen naeh einander gesunden werden, wind nieht
+’ gestdrt, wenn ein Glied der einen Reihe versehwindet. Dann
+freilieh wird das na'ehste Glied nieht kleiner als die Halfte
+ven diesem, da es niehts kleineres als ein versehwindendes
+Glied gibbi, wenn man von den Verzeiehen absieht. Aber κ
+man erkennt leieht, dass, wenn ein Glied der einen Reihe ver-
+sehwindet, man das ndehste kleiner als irgend eine gegebene
+
+Grdsse maehen kann. Sei beispielsweise a''= 0, se findet
+sich das ndehste Glied
+
+am == -a'A,
+
+we A kleiner als irgend eine gegebene Grbsse gemacht werden
+kennte. Unter Benntrnng also dieses Gliedes und nnter Ver-
+gabe irgend einer kleineren Grbsse wird man den Alg01·ithmus
+fortsetzen, bis aueb die Glieder der anderen Reihe kleiner
+werden als die gegebene (iibere. Es kdnnen aber nie zwei
+entspreehende Glieder der beiden Reihen nugleieh versehwinden.
+Denn ware gleichzeitig
+
+amizo, &00:0,
+so gabe es Zahlen m, m', m'', fdr die zngleieh
+affl) = ma -Ι- m'a' d— m''a'' = 0,
+ber) = md ÷ m'd' -i- m''d'' = 0,
+und gleieherweise
+me' -Ι- m'i' 4- m''r''' = 0.
+
+Dass aber dies nur stattfinden kann, wenn sieh nieht die
+drei Perinden ans nwei zusammensetzen dassen, haben wir im
+§2 gesehen. .
+
+Der bezeichnete Algerithmus sedat fernen vorans, dass
+
+niemals
+abbbdffl) - a(⁹²÷¹)b('²) = 0 3
+
+Ἴ [61] was folgendermaassen klar wird. Sei namlieh
+
+a<”*¹)=pa÷p'a'÷p''e''‚ b('²*⁴)=pe÷p'e'÷p”e''. .
+
+ 
+

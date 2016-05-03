@@ -1,0 +1,51 @@
+Ueber die vierfeeh periodisehen Functionen etc. 29
+
+Ur²- U'x -ι- U''=0
+
+betraehtet werden, wo U, U', U'' Funebionen von ιι, n' sind.
+Wenn nun ιι als Summe mebrerer Integrale Ι
+
+und zugleieh α’ als Summe ven ebensoviel Integralen
+
+(α’ *effnde
+
+gegeben wird, die bez zwisehen denselben Grenzen genom-
+men werden: so erbdlt man· aus dem Abel'sehen Theorem
+U, U', U '' als rationale Funetienen dieser Grenzen und der
+
+derne, [74] eie ιιι err eresenen annrmmt. nne n diesem
+Falle werden deber die beiden t1·ansoendenten 'Gleiebungen
+auf elgebraisehe zurdekgesdhrt. Dies ist die geeignete An-
+wendungeweiee des Abel'sehen TheeremS, wenn X den 5²⁰n
+oder gron Grad hat. ’
+
+Ein sehr einfaehes Beispiel dieses umfassenden Theorems
+haben wir oben gegeben. Es felgt ndmlieh eusdem frdher
+=Erkannten, wenn wir setzen
+
+X=r(¹-d(1-u²d[1-(12²d—‚r²·d
+
+wo l>n²>b²>n²‚ und unter der Annahme der beiden
+transcendenten Gleiehungen
+
+ΓΨᾸπβ-ῑξιᾶῃ, darr‘fddx
+‘0 VX ¹2 VX ‘²
+
+”(α’-Ι-βίι)ᾶιι-Ι-μν ('a-}-ssn)=dx (n-l-p’ndn
+
+ὀ VX ι
+
+μἏ
+
+dass rr, y sieh durebz ausdrdeken dassen als Wurzeln der
+quadratisehen Gleiebnng:
+
+Μι-ιικιιιι-κιιιιι-,ιιιι-κιι-κιιιιι-μιιιιι-κιιι-ιιιι-0
+
+ιι-ι
+oder
+Uoe²-·U'x†U''=0,
+wo ι
+
+ 
+
